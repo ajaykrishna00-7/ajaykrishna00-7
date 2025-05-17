@@ -34,7 +34,7 @@
 
 ### 📌 Projects
 
-#### 💰 [Banking System CLI (Dicts to MySQL)](https://github.com/ajaykrishna00-7/Python-banking-console)
+#### 💰 Banking System CLI (Dicts to MySQL)
 - CLI-based bank built in 11th using `dict()` only  
 - Upgraded in 12th with full **MySQL backend**, transaction logging, CSV-based complaints system  
 - Secure PIN system, admin controls, and bulk transfers  
