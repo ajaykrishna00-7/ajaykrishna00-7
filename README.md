@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Ajay Krishna</h1>
-<h3 align="center">Information Technology Undergraduate @ MIT – Anna University | Ex Research Fellow @ IIT Bombay</h3>
+<h3 align="center">Information Technology Undergraduate @ MIT – Anna University | Former UG Research Fellow @ IIT Bombay</h3>
 
 <p align="center">
   <a href="mailto:prasannaajaykrishna@gmail.com">
