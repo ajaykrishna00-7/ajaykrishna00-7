@@ -36,7 +36,6 @@ name:      Ajay Krishna
 role:      Final-Year IT Student @ Madras Institute of Technology, Anna University
 focus:     AI/ML  ·  Backend Systems  ·  Full-Stack Engineering
 past:      Undergraduate Research Fellow @ IIT Bombay  |  Summer Intern @ HSBC
-mindset:   "Build things. Break things. Learn. Repeat."
 ```
 
 I'm interested in building **practical systems** at the intersection of AI/ML and software engineering — from predictive infrastructure monitoring to autonomous navigation.
