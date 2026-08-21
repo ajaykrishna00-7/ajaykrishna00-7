@@ -14,7 +14,7 @@ Final-Year Information Technology Student @ MIT – Anna University
   <a href="https://github.com/ajaykrishna00-7">
     <img src="https://img.shields.io/badge/GitHub-ajaykrishna00--7-black?style=flat-square&logo=github" alt="GitHub">
   </a>
-  <a href="2023506055_AjayKrishna_resume.pdf" target="_blank">
+  <a href="https://ajaykrishna00-7.github.io/ajaykrishna00-7/2023506055_AjayKrishna_resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-success?style=flat-square&logo=adobeacrobatreader" alt="Resume">
   </a>
 </p>
@@ -166,7 +166,7 @@ B.Tech – Information Technology · 2023–2027
   &nbsp; • &nbsp;
   <a href="https://github.com/ajaykrishna00-7">💻 GitHub</a>
   &nbsp; • &nbsp;
-  <a href="resume.pdf" target="_blank">📄 Resume</a>
+  <a href="https://ajaykrishna00-7.github.io/ajaykrishna00-7/2023506055_AjayKrishna_resume.pdf" target="_blank">📄 Resume</a>
 </p>
 
 ---
