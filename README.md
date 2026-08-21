@@ -103,61 +103,90 @@ I'm interested in building **practical systems** at the intersection of AI/ML an
 
 ## 🚀 Featured Projects
 
-<table>
+<div align="center">
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
+<h3>📡 Solace Monitoring System</h3>
 
-### 📡 Solace Monitoring System
-**`Java` `Python` `LightGBM` `React` `Solace`**
+<img src="https://img.shields.io/badge/Status-In%20Production-2ea44f?style=flat-square"/>
 
-Predictive monitoring platform for enterprise messaging infrastructure — combines a rule engine with ML-based prediction in a champion–challenger setup.
+Predictive monitoring platform for enterprise messaging infrastructure — combines a mathematical rule engine with ML-based prediction in a champion–challenger setup.
 
-`🟢 In Production`
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Solace-00C58E?style=flat-square"/>
+
+<sub>Private / internal deployment — not publicly hosted</sub>
 
 </td>
 <td width="50%" valign="top">
+<h3>🚦 CUMTA – Smart Traffic System</h3>
 
-### 🚦 CUMTA – Smart Traffic System
-**`Python` `YOLOv8` `OpenCV`**
+<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square"/>
 
 Computer-vision traffic signal & pattern analysis system for congestion detection, built under a government-backed smart mobility initiative.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
-### 🚁 Autonomous Drone Navigation
-**`Python` `PyBullet` `PID Control`**
-
-Multi-point autonomous drone navigation, simulated with `gym-pybullet-drones` and PID control, with obstacle-aware routing. Built in a 24-hour hackathon.
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Money Mentor – Stock Predictor
-**`Python` `LSTM` `yFinance`**
-
-LSTM-based stock market prediction system with historical vs. predicted trend visualization, built for financial-literacy accessibility.
+<a href="https://github.com/ajaykrishna00-7/traffic-ai-vision-control"><img src="https://img.shields.io/badge/-View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<h3>🚁 Autonomous Drone Navigation</h3>
 
-### 🤖 Jarvis – AI System Assistant
-**`Python` `Gemini API` `Automation`**
+<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square"/>
 
-Voice-driven personal assistant for command execution, app control, and system automation with modular command processing.
+Multi-point autonomous drone navigation, simulated with <code>gym-pybullet-drones</code> and PID control, with obstacle-aware, point-to-point routing. Built in a 24-hour hackathon.
 
-`⏸ On Hold`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyBullet-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/PID%20Control-FF6F00?style=flat-square"/>
+
+<a href="https://github.com/ajaykrishna00-7/Autonomous_drone_navigation"><img src="https://img.shields.io/badge/-View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
+<h3>📈 Money Mentor – Stock Predictor</h3>
+
+<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square"/>
+
+LSTM-based stock market prediction system with historical vs. predicted trend visualization, built to make financial analysis more accessible.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LSTM-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/yFinance-8A2BE2?style=flat-square"/>
+
+<a href="https://github.com/ajaykrishna00-7/Money-Mentor-Stock-market-prediction-and-learning-system-"><img src="https://img.shields.io/badge/-View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧪 ChemPredict Pro – Drug Analyser</h3>
+
+<img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square"/>
+
+Cross-platform mobile app that predicts chemical properties and toxicity from **SMILES notation**. Runs fully offline with an on-device XGBoost model and RDKit-based descriptor extraction — ML in your pocket for molecular analysis.
+
+**Highlights:** SMILES-based compound recognition · toxicity prediction · descriptor calculation (MW, LogP, TPSA, HBD, HBA, ring count, rotatable bonds, Fraction Csp³) · Lipinski rule-of-five compliance check · offline on-device inference.
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/> <img src="https://img.shields.io/badge/RDKit-3C8DBC?style=flat-square"/> <img src="https://img.shields.io/badge/SMOTE-FF6F61?style=flat-square"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+
+<a href="https://github.com/ajaykrishna00-7/Drug-Analyser"><img src="https://img.shields.io/badge/-View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+<h3>🤖 Jarvis – AI System Assistant</h3>
+
+<img src="https://img.shields.io/badge/Status-On%20Hold-inactive?style=flat-square"/>
+
+Voice-driven personal assistant for command execution, application control, and automated tasks, designed around modular command processing and response handling.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Automation-4B4B4B?style=flat-square"/>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -165,13 +194,30 @@ Voice-driven personal assistant for command execution, app control, and system a
 
 <div align="center">
 
-| 🥇 | 🥉 | ♟️ | ♟️ |
-|:---:|:---:|:---:|:---:|
-| **Prayatna'25 Hackathon**<br/>1st Place | **VOLTAICS'25 Hackathon**<br/>3rd Place | **MIT Chess Team**<br/>Zonal Champion 2024 | **Inter-Zonals Chess**<br/>Runner-up |
+<table>
+<tr>
+<th>🥇 Hackathon</th>
+<th>🥉 Hackathon</th>
+<th>♟️ Chess</th>
+<th>♟️ Chess</th>
+</tr>
+<tr>
+<td align="center"><b>Prayatna'25</b><br/>1st Place</td>
+<td align="center"><b>VOLTAICS'25</b><br/>3rd Place</td>
+<td align="center"><b>MIT Chess Team</b><br/>Zonal Champion · 2024</td>
+<td align="center"><b>Inter-Zonals Championship</b><br/>Runner-up</td>
+</tr>
+</table>
 
 </div>
 
-**📜 Certifications:** NPTEL – Python for Data Science &nbsp;•&nbsp; NPTEL – Programming in Java &nbsp;•&nbsp; NPTEL – Supervised Machine Learning
+<div align="center">
+
+<img src="https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Supervised%20Machine%20Learning-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
+
+</div>
 
 <br/>
 
@@ -179,21 +225,57 @@ Voice-driven personal assistant for command execution, app control, and system a
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,java,js,mysql" />
-
-<br/><br/>
-
-**AI / Machine Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,huggingface" />
-
-<br/><br/>
-
-**Web · Backend · Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql" />
+<table>
+<tr>
+<td align="center" width="25%"><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>AI / ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RDKit-3C8DBC?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Mobile</b></td>
+<td>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Web / Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</td>
+</tr>
+</table>
 
 </div>
 
