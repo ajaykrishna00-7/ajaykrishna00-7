@@ -215,7 +215,7 @@ Voice-driven personal assistant for command execution, application control, and 
 
 <img src="https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPTEL-Supervised%20Machine%20Learning-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/COURSERA-Supervised%20Machine%20Learning-blue?style=flat-square&logo=googlescholar&logoColor=white"/>
 
 </div>
 
@@ -244,7 +244,6 @@ Voice-driven personal assistant for command execution, application control, and 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RDKit-3C8DBC?style=for-the-badge"/>
 </td>
 </tr>
 <tr>
