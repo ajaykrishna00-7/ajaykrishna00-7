@@ -17,7 +17,7 @@
 <a href="https://github.com/ajaykrishna00-7">
   <img src="https://img.shields.io/badge/GitHub-ajaykrishna00--7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="https://ajaykrishna00-7.github.io/ajaykrishna00-7/2023506055_AjayKrishna_resume.pdf" target="_blank">
+<a href="https://ajaykrishna00-7.github.io/ajaykrishna00-7/ajay_resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-View%20PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
 </a>
 
@@ -311,7 +311,7 @@ Voice-driven personal assistant for command execution, application control, and 
 <a href="mailto:prasannaajaykrishna@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ajay-krishna-588a1228b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/ajaykrishna00-7"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://ajaykrishna00-7.github.io/ajaykrishna00-7/2023506055_AjayKrishna_resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+<a href="https://ajaykrishna00-7.github.io/ajaykrishna00-7/ajay_resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
 <br/><br/>
 
